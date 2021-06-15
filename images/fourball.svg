@@ -1,0 +1,19 @@
+<svg id="Group_4406" data-name="Group 4406" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.95" height="52.95" viewBox="0 0 52.95 52.95">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.509" y1="1" x2="0.509" y2="0.206" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a1818"/>
+      <stop offset="1" stop-color="#1a1818" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4405" data-name="Group 4405" transform="translate(0 0)">
+    <ellipse id="Ellipse_44" data-name="Ellipse 44" cx="23.133" cy="23.133" rx="23.133" ry="23.133" transform="translate(0 7.256) rotate(-9.023)" fill="#e8b240"/>
+    <path id="Path_2748" data-name="Path 2748" d="M1218.588,251.471a23.119,23.119,0,0,0-9.13,34.072c4.624-1.407-3.247-8.725-.646-18.432S1221.661,255.46,1218.588,251.471Zm14.385,5.72a11.552,11.552,0,0,0,10.531-2.4,23.153,23.153,0,0,0-18.554-5.273A11.548,11.548,0,0,0,1232.973,257.191Zm14.518,2.024c-4.656,1.919,3.247,8.726.647,18.433s-13.077,12.109-9.776,15.639a23.118,23.118,0,0,0,9.13-34.072Zm-22.737,28.65a11.552,11.552,0,0,0-10.728,2.581,23.151,23.151,0,0,0,18.618,4.691A11.549,11.549,0,0,0,1224.754,287.865Zm12.021-25.237-10.614-2.844a11.567,11.567,0,0,0-5.988,22.345l10.614,2.844a11.567,11.567,0,1,0,5.987-22.345Z" transform="translate(-1202 -245.904)" fill="#edeeef"/>
+    <path id="Path_2749" data-name="Path 2749" d="M1250.811,290.9a23.133,23.133,0,0,1-44.69-11.975Z" transform="translate(-1201.996 -258.418)" opacity="0.2" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="_4" data-name="4" transform="matrix(0.966, 0.259, -0.259, 0.966, 24.121, 31.693)" fill="#1a1818" font-size="22" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-6.252" y="0">4</tspan></text>
+  </g>
+  <path id="Path_2750" data-name="Path 2750" d="M1251.4,273.915c0,12.357-44.748,12.357-44.748,0a22.374,22.374,0,0,1,44.748,0Z" transform="translate(-1202.555 -246.872)" opacity="0.7" fill="url(#linear-gradient-2)"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.281" height="46.291" viewBox="0 0 46.281 46.291">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.509" y1="1" x2="0.509" y2="0.206" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a1818"/>
+      <stop offset="1" stop-color="#1a1818" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4398" data-name="Group 4398" transform="translate(0)">
+    <g id="Group_4397" data-name="Group 4397" transform="translate(0 0)">
+      <ellipse id="Ellipse_40" data-name="Ellipse 40" cx="23.133" cy="23.133" rx="23.133" ry="23.133" transform="translate(0.01 0.002)" fill="#00b3cf"/>
+      <path id="Path_2736" data-name="Path 2736" d="M1266.542,26.6a23.119,23.119,0,0,0-9.129,34.072c4.624-1.407-3.247-8.726-.646-18.433S1269.615,30.59,1266.542,26.6Zm14.385,5.72a11.552,11.552,0,0,0,10.531-2.4,23.147,23.147,0,0,0-18.554-5.273A11.547,11.547,0,0,0,1280.927,32.32Zm14.518,2.025c-4.656,1.919,3.247,8.726.647,18.432s-13.077,12.109-9.776,15.64a23.118,23.118,0,0,0,9.129-34.072Zm-22.737,28.65a11.55,11.55,0,0,0-10.728,2.58,23.148,23.148,0,0,0,18.618,4.691A11.549,11.549,0,0,0,1272.708,62.995Zm12.021-25.237-10.614-2.844a11.567,11.567,0,0,0-5.988,22.345l10.614,2.844a11.567,11.567,0,1,0,5.987-22.345Z" transform="translate(-1253.285 -24.374)" fill="#edeeef"/>
+      <text id="_0" data-name="0" transform="matrix(0.966, 0.259, -0.259, 0.966, 20.79, 28.353)" fill="#1a1818" font-size="22" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-6.252" y="0">0</tspan></text>
+      <path id="Path_2737" data-name="Path 2737" d="M1298.765,66.028a23.133,23.133,0,1,1-44.69-11.975Z" transform="translate(-1253.281 -36.889)" opacity="0.2" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <path id="Path_2738" data-name="Path 2738" d="M1299.356,49.044c0,12.357-44.748,12.357-44.748,0a22.374,22.374,0,1,1,44.748,0Z" transform="translate(-1253.841 -25.342)" opacity="0.7" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
